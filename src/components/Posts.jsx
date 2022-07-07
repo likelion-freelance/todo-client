@@ -5,7 +5,7 @@ import { AiOutlineDelete } from "react-icons/ai";
 import { truncateString } from "../utils/helper";
 import { Link } from "react-router-dom";
 import { useState } from "react";
-import UpdateModal from "./UpdateModal";
+import UpdateModal from "./Modal/UpdateModal";
 
 const Wrapper = styled.div`
   display: grid;

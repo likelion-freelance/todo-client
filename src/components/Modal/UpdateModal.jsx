@@ -1,7 +1,7 @@
 import { default as OriginModal } from "react-modal";
 import styled from "styled-components";
 import styles from "./Modal.module.css";
-import StatusSelect from "./StatusSelect";
+import StatusSelect from "../StatusSelect";
 
 const Title = styled.h3`
   font-size: 2.7rem;
